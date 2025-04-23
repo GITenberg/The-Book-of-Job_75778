@@ -1,0 +1,53 @@
+_repo: The-Book-of-Job_75778
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+  illustrator:
+    agent_name: Tongue, C. Mary
+    gutenberg_agent_id: '58140'
+    url: http://www.gutenberg.org/2009/agents/58140
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2025-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75778'
+language: en
+pgterms:marc904: https://archive.org/details/bookofjob00chesuoft/page/n7/mode/2up
+pgterms:marc905: 20201112092820chesterton
+pgterms:marc906: '1916'
+pgterms:marc907: GB
+production_note: Carla Foust, Brian Wilson, Tim Lindell and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aLondon :$bCecil Palmer & Hayward, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Job -- Illustrations'
+- !lcsh 'Bible. Job'
+- !lcsh 'Bible. Job -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+- GITenberg
+title: The Book of Job
+url: http://www.gutenberg.org/ebooks/75778
